@@ -6,7 +6,7 @@
 
 ## 📚Estudos:
   <li>Estudante de Desenvolvimento de Sistemas;
-  <li><b>Atualmente aprendendo</b>: HTML e Markdown.
+  <li><b>Atualmente aprendendo</b>: HTML, CSS e Markdown.
 
 ## O que pretendo estudar: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=80p alt="HTML5 Logo"/>
