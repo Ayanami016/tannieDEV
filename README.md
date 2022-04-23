@@ -8,7 +8,10 @@
   <li>Estudante de Desenvolvimento de Sistemas;
   <li><b>Atualmente aprendendo</b>: HTML, CSS e Markdown.
 
-## O que pretendo estudar: 
+## Domínio atual:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=80p alt="HTML5 Logo"/>
+
+## ⌨️O que pretendo estudar: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=80p alt="HTML5 Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=100p alt="CSS3 Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=90p alt="Java Logo"/>
